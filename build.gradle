@@ -12,7 +12,7 @@ plugins {
 
 node {
 	download = true
-	npmVersion = "10.8.2"
+	npmVersion = "7.24.2"
 }
 
 //declare a build task
